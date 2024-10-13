@@ -44,36 +44,6 @@ _Intern Front-End Web Developer_ | **March 2018 - May 2018**
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
-
----
-
-## 💡 Projects
-
-### **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME)**  
-Description: A brief description of your project and what technologies were used.
-
-### **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME)**  
-Description: A brief description of your project and what technologies were used.
-
----
-
-## 🏆 Certifications & Achievements
-
-- **Certified Angular Developer** – Some Certification Authority (Year)
-- **JavaScript Mastery Certificate** – Online Course (Year)
-
----
-
-## 🌱 What I'm Learning Next
-- **RxJS**: Improving my reactive programming skills in Angular.
-- **Next.js**: Exploring server-side rendering for modern web apps.
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikava)
