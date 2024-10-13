@@ -1,12 +1,42 @@
-# Hi, I'm John! 👋
+# Vladimer Mikava
 
-![GIF of coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+### Angular Developer at crocobet.com
+📍 Georgia  
+📧 mikava.vova@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/mikava)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+---
 
-## Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+## 💻 Skills
+- SCSS
+- GitLab
+- Jira
+- Angular
 
-## Fun Fact:
-I love coding and coffee ☕!
+---
+
+## 👨‍💻 Experience
+
+**[crocobet.com](https://www.crocobet.com/)**  
+_Angular Developer_  
+February 2021 - Present (3 years 9 months)
+
+**HobbyStudio**  
+_Front-End Developer_  
+June 2018 - December 2018 (7 months) | Tbilisi
+
+**Ministry of Education and Science of Georgia**  
+_Intern Front-End Web Developer_  
+March 2018 - May 2018 (3 months)
+
+---
+
+## 🎓 Education
+
+**LEPL COMMUNITY COLLEGE "INFORMATION TECHNOLOGIES ACADEMY"**  
+_Web Development (2016 - 2018)_
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mikava)
