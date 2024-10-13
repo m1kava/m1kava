@@ -31,6 +31,7 @@ _Angular Developer_ | **February 2021 - Present**
 - Collaborated with designers to implement user-friendly features and optimize UI performance.
 - Integrated REST APIs and ensured seamless communication with backend services.
 - Mentored junior developers and conducted code reviews.
+- Responsible for creating release versions, ensuring smooth deployment to production environments.
 
 ### **HobbyStudio**  
 _Front-End Developer_ | **June 2018 - December 2018**  
